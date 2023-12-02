@@ -1,4 +1,10 @@
 // file : the first cpp file
 // 1st line of comment
-// 2nd line of comment
+
+// 3rd line : Added, but I deleted 2nd line
+// file : second.cpp
+// 2nd line
+// 3rd line
 // file : the first header
+
+#define THE_SECOND_LINE (2)
